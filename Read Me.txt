@@ -1,2 +1,15 @@
-Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. If the spread is not controlled, it can result in death. Lung cancer was the most common cancer in worldwide, contributing 2,093,876 of the total number of new cases diagnosed in 2018. Cigarette smoking is by far the most important risk factor for lung cancer; 80% of lung cancer deaths in the US are still caused by smoking. Other risk factors include occupational or environmental exposure to secondhand smoke, asbestos (particularly among smokers), certain metals (chromium, cadmium, arsenic), some organic chemicals, radiation, air pollution, and diesel exhaust. 
- The lung cancer prediction was analyzed using classification algorithms such as Naive Bayes,Decision tree,Random Forest and K-nearest nieghber. The key objective of this paper is the early diagnosis of lung cancer by examining the performance of classification algorithms.
+Lung Cancer Detection Using Machine Learning Algorithm  :
+
+Project Done By:
+
+Fuad Uddin
+
+Sumaiya Jahan Mim
+
+Sazzad Hossain Rony
+
+Super Vised By:
+
+DR.MD.GOLAM RABIUL
+
+Adjunt Faculty of Department of computer science and engineering 
